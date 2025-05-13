@@ -39,7 +39,7 @@ subnet = '192.168.1.0/24'
 
 Then run:
 ```bash
-sudo python3 scan.py
+sudo python3 LocalNetworkScan.py
 ```
 Output will be saved to:
 
@@ -62,6 +62,6 @@ Output will be saved to:
 
 ## Explore Further
 
-    CanYouSeeMe.org – Check external port exposure
+    [CanYouSeeMe.org](https://canyouseeme.org) – Check external port exposure
 
-    macvendors.com – Look up MAC address vendors
+    [macvendors.com](https://macvendors.com) – Look up MAC address vendors
