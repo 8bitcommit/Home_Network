@@ -22,7 +22,7 @@ Use it to:
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - `scapy`
 - `mac-vendor-lookup`
 
@@ -38,12 +38,12 @@ Update the subnet in scan.py to match your local network, e.g.:
 subnet = '192.168.1.0/24'
 
 Then run:
-
+```bash
 sudo python3 scan.py
-
+```
 Output will be saved to:
 
-network_inventory.csv
+`network_inventory.csv`
 
 ## Sample Output
 
