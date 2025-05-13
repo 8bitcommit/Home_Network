@@ -61,7 +61,5 @@ Output will be saved to:
 [Adam Kearsey](https://adamkearsey.com)
 
 ## Explore Further
-
-    [CanYouSeeMe.org](https://canyouseeme.org) – Check external port exposure
-
-    [macvendors.com](https://macvendors.com) – Look up MAC address vendors
+[CanYouSeeMe.org](https://canyouseeme.org) – Check external port exposure
+[macvendors.com](https://macvendors.com) – Look up MAC address vendors
