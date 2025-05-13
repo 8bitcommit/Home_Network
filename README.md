@@ -1,4 +1,4 @@
-# 🕵 Who Built the Machines That Live in Our Homes?
+# Who Built the Machines That Live in Our Homes?
 
 This repo contains the Python code and notes from the blog post:  
 👉 [Read the full post](https://adamkearsey.com/2025-05-12-Scan_Home_Network/)
@@ -58,8 +58,7 @@ network_inventory.csv
 
 ## Author
 
-Adam Kearsey
-🔗 adamkearsey.com
+[Adam Kearsey](https://adamkearsey.com)
 
 ## Explore Further
 
